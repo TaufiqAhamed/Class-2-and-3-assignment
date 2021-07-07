@@ -1,0 +1,147 @@
+*{margin: 0px;
+padding: 0px;}
+
+p{font-family: popins;
+
+font-size: 14px;
+line-height: 24px;}
+
+h1,	h2, h3, h4, h5, h6 {font-family: roboto;
+}
+
+	a, a:hover{text-decoration: None;}
+
+
+	.login	{width: 350px;
+
+	         background: #eee;
+
+	         margin: 20px auto;
+
+	         padding: 50px;
+
+	         border: 5px solid #000;
+
+	         border-radius: 20px;
+
+	       
+
+	         }
+
+
+	  .login .avatar {width: 100%;
+	                  text-align: center;}
+
+
+    .login .avatar img	{width: 80px;
+     	             height: 80px;
+
+     	             border:2px solid #000;
+
+     	             border-radius: 50%;
+                     margin: 0px 0px 15px;     	                }
+
+         
+ .login h1	{font-size: 35px;
+             
+            line-height: 45px;
+
+            font-weight: 700;
+
+            text-align: center;
+
+            text-transform: uppercase;
+
+            margin: 0px 0px 10px 0px; }
+
+
+  .login .login-form 
+  {width: 100%;}
+
+
+ .login-form label 
+        	{font-size: 14px;
+     	    font-weight: 700;
+     	    text-transform: uppercase;
+     	    display: block;
+
+     	    margin: 15px 0px 0px;
+            
+     	}
+
+   .login-form .sharup {width: 98%;
+
+                        padding: 5px 0px;
+
+                       color: grey;
+                      
+                      margin: 5px 0px 10px;
+
+                      border-radius: 5px;
+                       
+                     
+                                 }
+
+     .login-form .btn
+                   { font-size: 15px;
+
+
+     	            padding: 8px 25px;
+
+     	            border-radius: 100px;
+
+     	             border: 1px solid #000;
+     	            cursor: pointer;
+
+     	            margin: 5px 0px ;
+
+     	            font-weight: 550;
+     	            text-transform: uppercase;
+     	          background: green;
+     	          color: #fff;}
+                    
+      .login-form .btn:hover
+                  { background: transparent;
+     	          color: #000;}
+
+
+      .login p {font-size: 20px;
+                color: red;
+                font-weight: 700;
+
+                margin: 5px 0px 30px;}
+
+
+      .login  h2 {font-size: 15px;
+                color: #000;
+
+                margin: 20px 0px 10PX;
+
+               text-align: center;
+                }
+
+
+                .login-form .btn2
+                   { width: 100%;
+                    font-size: 18px;
+
+
+     	            padding: 5px 20px;
+
+     	             border: 1px solid #000;
+     	            cursor: pointer;
+
+     	         border-radius: 5px;
+
+     	            font-weight: 550;
+     	        
+     	          background: green;
+     	          color: #fff;
+     	       text-align: center;}
+                    
+      .login-form .btn2:hover
+                  { background: transparent;
+     	          color: #000;}
+
+
+

@@ -1,0 +1,94 @@
+*{margin: 0px;
+padding: 0px;}
+
+p{font-family: popins;
+
+font-size: 14px;
+line-height: 24px;}
+
+h1,	h2, h3, h4, h5, h6 {font-family: roboto;
+}
+
+a, a:hover{text-decoration: None;}
+
+
+.signup {width: 400px;
+            background: #eee;
+
+            margin: 20px auto;
+
+            padding: 50px;
+
+            border: 5px solid #000;
+
+            border-radius: 20px;
+     }
+
+
+.signup h1 {font-size: 40px;
+            line-height: 52px;
+            text-align: center;
+           text-transform: uppercase;}
+
+  .signup p {width: 100%;
+               text-align: center;
+               color: green;
+               font-size: 17px;
+
+               margin: 0px 0px 20PX;}
+
+
+.signup .signup-form
+       
+       {width: 98%;
+
+       text-align: Left;
+       }
+
+.signup .signup-form label 
+
+       {font-size: 15px;
+       	line-height: 25px;
+       font-weight: 550;
+       display: block;
+        margin: 10px 0px 03px;
+        text-transform: uppercase;
+    }
+
+.signup-form .taufiq{width: 98%;
+
+                     padding: 5px 0px;
+
+                    margin: 5px 0px;
+
+                 border: 1px solid #000;}
+
+
+
+.signup-form .ahamed {font-size: 15PX;
+
+
+                      margin: 10px 05px 25PX;
+
+                      }
+
+.signup-form .btn {width: 100%;}
+.signup-form .btn {padding: 5px 25px;
+
+                    margin: 10PX 0px;
+
+                    font-size:15PX;
+                    line-height: 30PX;
+                    font-weight: 600;
+                    border-radius: 5px;
+                    color: #fff;
+                    background: green; }
+
+  .signup-form .btn:hover {cursor: pointer;
+
+                           background: transparent;
+  	                      color: #000;}
+
+
+
+
